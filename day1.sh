@@ -1,4 +1,4 @@
-uraj@suraj-1-0:~$ cd 'sap session'
+suraj@suraj-1-0:~$ cd 'sap session'
 suraj@suraj-1-0:~/sap session$ mkdir edunet
 suraj@suraj-1-0:~/sap session$ cd edunet
 suraj@suraj-1-0:~/sap session/edunet$ echo "hello this is suraj" >> file1.txt
